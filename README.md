@@ -1,1 +1,1 @@
-# Text-to-Image-Translation
+This project uses Conditional Generative Adversarial Networks (CGAN) to generate images from a text description. I have used a few different datasets to train these models. They are not very accurate especially the model which was trained using Flowers dataset because of the training limitation on Google Colab.
